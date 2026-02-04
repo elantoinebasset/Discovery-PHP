@@ -61,5 +61,9 @@
     <input type="submit" value="Control_Structure" />
 </form>
 
+<form action="Calculatrice/Calculatrice.php">
+    <input type="submit" value="Calculatrice" />
+</form>
+
 </body>
 </html>
