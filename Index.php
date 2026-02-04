@@ -53,8 +53,12 @@
     <button type="submit">Submit</button>
 </form>
 
-<form action="newPage.php">
-    <input type="submit" value="NewPage" />
+<form action="Operator.php">
+    <input type="submit" value="Operator" />
+</form>
+
+<form action="Control_Structure.php">
+    <input type="submit" value="Control_Structure" />
 </form>
 
 </body>
