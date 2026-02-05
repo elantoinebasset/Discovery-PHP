@@ -65,5 +65,9 @@
     <input type="submit" value="Calculatrice" />
 </form>
 
+<form action="Array.php">
+    <input type="submit" value="Array" />
+</form>
+
 </body>
 </html>
