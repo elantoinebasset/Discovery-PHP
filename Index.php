@@ -69,5 +69,9 @@
     <input type="submit" value="Array" />
 </form>
 
+<form action="BuildInFonction.php">
+    <input type="submit" value="BuildInFonction" />
+</form>
+
 </body>
 </html>
